@@ -14,7 +14,6 @@ function App() {
       <div className="app__half half--left">
         <form>
           <textarea onChange={handleInputChange}>
-         
           </textarea>
         </form>
       </div>
